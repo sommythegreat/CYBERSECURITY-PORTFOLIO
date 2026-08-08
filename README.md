@@ -28,8 +28,8 @@ Build a simple local area network with 2 PCs, 1 Switch, and 1 Router. Configure 
 5. Verified connectivity using the `ping` command
 
 ### Troubleshooting Notes
-- Initially connected PC1 to the Router’s Console port by mistake (Console is for management only, not data traffic)
-- Corrected by reconnecting PC1 to the Switch
+- Initially connected PC1 to the Switch Console port by mistake (Console is for management only, not data traffic)
+- Corrected by reconnecting PC1 to the right Switch port (fastEthernet0/3)
 - Learned the difference between Console port and network interfaces
 
 ### Verification
