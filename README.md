@@ -1,4 +1,4 @@
-### Hands-on networking and cybersecurity labs documenting my learning journey after completing the Google Cybersecurity Professional Certificate and Cisco Introduction to Cybersecurity.
+### Hands-on networking and cybersecurity labs with Cisco Packet Tracer
 
 ---
 
@@ -17,7 +17,7 @@ Build a simple local area network with 2 PCs, 1 Switch, and 1 Router. Configure 
 | Device   | Interface            | IP Address     | Subnet Mask     | Default Gateway |
 |----------|----------------------|----------------|-----------------|-----------------|
 | PC0      | FastEthernet0        | 192.168.1.10   | 255.255.255.0   | 192.168.1.1     |
-| PC1      | FastEthernet0        | 192.168.1.11   | 255.255.255.0   | 192.168.1.1     |
+| PC1      | FastEthernet0        | 192.168.1.15   | 255.255.255.0   | 192.168.1.1     |
 | Router0  | GigabitEthernet0/0   | 192.168.1.1    | 255.255.255.0   | -               |
 
 ### Steps Performed
