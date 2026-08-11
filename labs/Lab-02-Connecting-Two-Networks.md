@@ -7,7 +7,7 @@ Create two separate networks, connect them using a router, configure IP addressi
 - Network 1: PC0 and PC2 connected to Switch0 → Router
 - Network 2: PC1 and PC3 connected to Switch1 → Router
 - Router connects both networks
-- <img width="1600" height="856" alt="NETWORK TOPOLOGY (USING ROUTER TO CONNECT DIFFERENT NETWORK)" src="https://github.com/user-attachments/assets/89b222d4-6bef-4020-9288-ce3241d936b3" />
+ <img width="1600" height="856" alt="NETWORK TOPOLOGY (USING ROUTER TO CONNECT DIFFERENT NETWORK)" src="https://github.com/user-attachments/assets/89b222d4-6bef-4020-9288-ce3241d936b3" />
 
 
 ### IP Addressing Scheme
