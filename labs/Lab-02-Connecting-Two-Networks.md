@@ -26,7 +26,7 @@ Create two separate networks, connect them using a router, configure IP addressi
 2. Connected both switches to the Router
 3. Configured static IP addresses and default gateways on all PCs
 4. Configured both router interfaces using CLI
-5. <img width="1598" height="857" alt="ROUTER CLI CONFIGURATION" src="https://github.com/user-attachments/assets/ca9a7767-163e-4add-8a19-b937c908bb8e" />
+    <img width="1598" height="857" alt="ROUTER CLI CONFIGURATION" src="https://github.com/user-attachments/assets/ca9a7767-163e-4add-8a19-b937c908bb8e" />
 6. Verified connectivity with successful pings across both networks
 
 ### Key Concepts Learned
