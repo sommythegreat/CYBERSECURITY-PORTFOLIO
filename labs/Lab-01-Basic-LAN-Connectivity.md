@@ -27,11 +27,11 @@ Build a simple local area network with 2 PCs, 1 Switch, and 1 Router. Configure 
 2. Connected devices using Copper Straight-Through cables
 3. Configured static IP addresses on both PCs
 <img width="1600" height="854" alt="PC1 IP CONFIGURATION" src="https://github.com/user-attachments/assets/4b54084c-2095-453e-9226-19cda45a27ad" />
-5. Configured IP address on Router interface and enabled the port (Port Status = On)
+4. Configured IP address on Router interface and enabled the port (Port Status = On)
 <img width="1600" height="860" alt="ROUTER PORT NOT YET ON" src="https://github.com/user-attachments/assets/71690eae-c3f6-42b7-a646-45de70ebb457" />
 <img width="1600" height="857" alt="ROUTER PORT ON" src="https://github.com/user-attachments/assets/a214bb71-e006-40b5-967d-5770c69090fc" />
 <img width="1600" height="857" alt="ROUTER PORT ON SUCCESSFULL" src="https://github.com/user-attachments/assets/c84c3d80-9b0d-430d-8d0d-80fd16dfc999" />
-6. Verified connectivity using the `ping` command
+5. Verified connectivity using the `ping` command
 
 ### Troubleshooting Notes
 - Initially connected PC1 to the Switch Console port (Console is for management only, not data traffic) by mistake, which made my first ping from PC1 to PC0 unsuccessful
