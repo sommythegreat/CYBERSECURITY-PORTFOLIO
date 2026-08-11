@@ -35,16 +35,16 @@ Build a simple local area network with 2 PCs, 1 Switch, and 1 Router. Configure 
 
 ### Troubleshooting Notes
 - Initially connected PC1 to the Switch Console port (Console is for management only, not data traffic) by mistake, which made my first ping from PC1 to PC0 unsuccessful
-- <img width="1600" height="863" alt="UNSUCCESSFUL PING TO PC0 BEFORE RECONNECTNG PC1 TO THE RIGHT SWITCH PORT" src="https://github.com/user-attachments/assets/0193e773-db83-447c-b2d2-d7accea47235" />
+  <img width="1600" height="863" alt="UNSUCCESSFUL PING TO PC0 BEFORE RECONNECTNG PC1 TO THE RIGHT SWITCH PORT" src="https://github.com/user-attachments/assets/0193e773-db83-447c-b2d2-d7accea47235" />
 
 - Corrected by reconnecting PC1 to the right Switch port (fastEthernet0/3)
-- <img width="1589" height="866" alt="AFTER RECONNECTING PC1 CORRECTLY TO THE RIGHT SWITCH PORT" src="https://github.com/user-attachments/assets/5ac50d46-7f78-402c-837a-64b6a908e26c" />
+  <img width="1589" height="866" alt="AFTER RECONNECTING PC1 CORRECTLY TO THE RIGHT SWITCH PORT" src="https://github.com/user-attachments/assets/5ac50d46-7f78-402c-837a-64b6a908e26c" />
 - Learned the difference between Console port and network interfaces
 
 ### Verification
 Successful ping from PC1 to PC0:
 - 4 packets sent, 4 received, 0% loss
-- <img width="1600" height="900" alt="SUCCESSFUL PING TO PC0 FROM PC1 AFTER RECONNECTNG PC1 TO THE RIGHT SWITCH PORT" src="https://github.com/user-attachments/assets/fe994e8f-e247-4671-b139-2fd084a48ea0" />
+  <img width="1600" height="900" alt="SUCCESSFUL PING TO PC0 FROM PC1 AFTER RECONNECTNG PC1 TO THE RIGHT SWITCH PORT" src="https://github.com/user-attachments/assets/fe994e8f-e247-4671-b139-2fd084a48ea0" />
 
 
 ### Skills Demonstrated
