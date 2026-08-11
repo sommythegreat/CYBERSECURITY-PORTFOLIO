@@ -26,4 +26,5 @@ Hands-on networking and cybersecurity labs documenting my learning journey after
 
 ## Certifications
 - Google Cybersecurity Professional Certificate
+- APTlearn.io Cybersecurity Certificate
 - Cisco Introduction to Cybersecurity
