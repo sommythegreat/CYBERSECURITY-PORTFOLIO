@@ -15,11 +15,19 @@ Hands-on networking and cybersecurity labs documenting my learning journey after
 - Understood Default Gateway and inter-network communication
 - [View Full Lab](labs/Lab-02-Connecting-Two-Networks.md)
 
+### Lab 03: DHCP vs Static IP Configuration
+- Configured both Static IP and DHCP on the same network
+- Set up a Router as a DHCP server using CLI
+- Verified connectivity between Static and DHCP clients
+- [View Full Lab](labs/Lab-03-DHCP-vs-Static-IP.md)
+
+
 ## Skills Demonstrated
 - IP Addressing
 - Network Topology Design
 - Static Routing Concepts
 - Router Configuration (CLI)
+- DHCP Configuration (CLI)
 - Default Gateway
 - Network Troubleshooting
 - Technical Documentation
