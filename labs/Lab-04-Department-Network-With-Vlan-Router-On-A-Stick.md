@@ -61,7 +61,7 @@ Design and configure a multi-department network for a small company. Separate th
 <img width="1600" height="854" alt="NETWORK TOPOLOGY" src="https://github.com/user-attachments/assets/4efb4ae2-f679-43d9-a032-949474c154b3" />
 
 - Switch trunk port configuration and `show vlan brief` output (ports mapped to VLAN 10 / VLAN 20)
-<img width="1600" height="861" alt="SWITCH CLI TRUNK CONFIGUREATION AND VLAN BRIEF" src="https://github.com/user-attachments/assets/5268d217-8281-43de-bc61-5ed3a0599c52" />
+<img width="1600" height="854" alt="SWITCH CLI TRUNK CONFIGURATION   VLAN BRIEF" src="https://github.com/user-attachments/assets/974afc53-42c3-4e97-8ef7-7030827b406b" />
 
 - Router subinterface configuration (PHYSICAL INTERFACE, SUBINTERFACE & DHCP)
 <img width="1600" height="857" alt="CLI CONFIGURATION ON ROUTER FOR ROUTER&#39;S PHYSICAL INTERFACE,SUBINTERFACE FOR VLANS   DHCP" src="https://github.com/user-attachments/assets/4702e02a-1700-478b-878e-fa4f6cc86e8c" />
