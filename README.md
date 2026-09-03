@@ -21,6 +21,14 @@ Hands-on networking and cybersecurity labs documenting my learning journey after
 - Verified connectivity between Static and DHCP clients
 - [View Full Lab](labs/Lab-03-DHCP-vs-Static-IP.md)
 
+### Lab 04: VLAN Segmentation with Router-on-a-Stick
+
+- Segmented Admin and Staff departments on a single switch using VLANs (VLAN 10 & VLAN 20)
+- Configured router subinterfaces with 802.1Q encapsulation for inter-VLAN routing
+- Combined static IP addressing (Admin) with DHCP (Staff) across separate VLANs
+- Troubleshot and resolved DHCP failures caused by incorrect VLAN port assignment
+- 
+
 
 ## Skills Demonstrated
 - IP Addressing
