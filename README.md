@@ -37,7 +37,7 @@ Hands-on networking and cybersecurity labs documenting my learning journey after
 - Analyzed packet structure across OSI layers (Frame, Linux-cooked capture, IPv4, ICMP)
 - Identified multiple protocols in a single capture: ICMP (ping), TCP, DNS
 - Understood packet anatomy: source/destination IPs, TTL, protocol types, hex dump representation
-- [View Full Lab](labs/Wireshark/Lab-05-Packet-Capture-and-Traffic-Analysis.md)
+- [View Full Lab](labs/Wireshark/Lab-01-Packet-Capture-and-Traffic-Analysis.md)
 
 ## Skills Demonstrated
 - IP Addressing & Subnetting
