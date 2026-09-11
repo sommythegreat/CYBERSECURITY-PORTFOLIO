@@ -2,7 +2,8 @@
 
 Hands-on networking and cybersecurity labs documenting my learning journey after completing the Google Cybersecurity Professional Certificate and Cisco Introduction to Cybersecurity.
 
-## Labs
+
+ ## Cisco Packet Tracer Labs
 
 ### Lab 01: Basic LAN Connectivity with Cisco Packet Tracer
 - Built a simple local area network with 2 PCs, 1 Switch, and 1 Router
@@ -29,7 +30,9 @@ Hands-on networking and cybersecurity labs documenting my learning journey after
 - Verified full connectivity between departments
 - [View Full Lab](labs/Lab-04-Department-Network-With-Vlan-Router-On-A-Stick.md)
 
-### Lab 05: Packet Capture and Traffic Analysis with Wireshark
+ ## Wireshark Labs
+
+### Lab 01: Packet Capture and Traffic Analysis with Wireshark
 - Captured live network traffic (8551 packets) using Wireshark in Kali Linux
 - Analyzed packet structure across OSI layers (Frame, Linux cooked capture, IPv4, ICMP)
 - Identified multiple protocols in a single capture: ICMP (ping), TCP, DNS
