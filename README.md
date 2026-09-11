@@ -29,19 +29,28 @@ Hands-on networking and cybersecurity labs documenting my learning journey after
 - Verified full connectivity between departments
 - [View Full Lab](labs/Lab-04-Department-Network-With-Vlan-Router-On-A-Stick.md)
 
+### Lab 05: Packet Capture and Traffic Analysis with Wireshark
+- Captured live network traffic (8551 packets) using Wireshark in Kali Linux
+- Analyzed packet structure across OSI layers (Frame, Linux cooked capture, IPv4, ICMP)
+- Identified multiple protocols in a single capture: ICMP (ping), TCP, DNS
+- Understood packet anatomy: source/destination IPs, TTL, protocol types, hex dump representation
+- [View Full Lab](https://github.com/sommythegreat/CYBERSECURITY-PORTFOLIO/blob/main/labs/Lab-05-Packet-Capture-and-Traffic-Analysis.md)
 
 ## Skills Demonstrated
-- IP Addressing
+- IP Addressing & Subnetting
 - Network Topology Design
 - Static Routing Concepts
 - Router Configuration (CLI)
 - DHCP Configuration (CLI)
-- Default Gateway
 - VLAN Configuration (CLI)
-- Router-on-a-Stick
-- Inter-VLAN Routing
+- Router-on-a-Stick (Inter-VLAN Routing)
+- Access Control Lists (ACLs)
+- Packet Capture & Analysis
+- Protocol Identification (TCP, UDP, DNS, HTTP/HTTPS, ICMP)
+- OSI Layer Analysis
 - Network Troubleshooting
 - Technical Documentation
+
 
 ## Certifications
 - Google Cybersecurity Professional Certificate
