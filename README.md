@@ -14,13 +14,13 @@ Hands-on networking and cybersecurity labs documenting my learning journey after
 - Created two separate networks and connected them using a Router
 - Configured Router interfaces using CLI
 - Understood Default Gateway and inter-network communication
-- [View Full Lab](labs/Lab-02-Connecting-Two-Networks.md)
+- [View Full Lab](labs/Cisco-Packet-Tracer/Lab-02-Connecting-Two-Networks.md)
 
 ### Lab 03: DHCP vs Static IP Configuration
 - Configured both Static IP and DHCP on the same network
 - Set up a Router as a DHCP server using CLI
 - Verified connectivity between Static and DHCP clients
-- [View Full Lab](labs/Lab-03-DHCP-vs-Static-IP.md)
+- [View Full Lab](labs/Cisco-Packet-Tracer/Lab-03-DHCP-vs-Static-IP.md)
 
 ### Lab 04: VLAN Department Network Segmentation with Router-on-a-Stick
 - Segmented Admin and Staff departments on a single switch using VLANs (VLAN 10 & VLAN 20)
@@ -28,7 +28,7 @@ Hands-on networking and cybersecurity labs documenting my learning journey after
 - Combined static IP addressing (Admin) with DHCP (Staff) across separate VLANs
 - Troubleshot and resolved DHCP failures caused by incorrect VLAN port assignment
 - Verified full connectivity between departments
-- [View Full Lab](labs/Lab-04-Department-Network-With-Vlan-Router-On-A-Stick.md)
+- [View Full Lab](labs/Cisco-Packet-Tracer/Lab-04-Department-Network-With-Vlan-Router-On-A-Stick.md)
 
  ## Wireshark Labs
 
@@ -37,7 +37,7 @@ Hands-on networking and cybersecurity labs documenting my learning journey after
 - Analyzed packet structure across OSI layers (Frame, Linux cooked capture, IPv4, ICMP)
 - Identified multiple protocols in a single capture: ICMP (ping), TCP, DNS
 - Understood packet anatomy: source/destination IPs, TTL, protocol types, hex dump representation
-- [View Full Lab](https://github.com/sommythegreat/CYBERSECURITY-PORTFOLIO/blob/main/labs/Lab-05-Packet-Capture-and-Traffic-Analysis.md)
+- [View Full Lab](https://github.com/sommythegreat/CYBERSECURITY-PORTFOLIO/blob/main/labs/Wireshark/Lab-05-Packet-Capture-and-Traffic-Analysis.md)
 
 ## Skills Demonstrated
 - IP Addressing & Subnetting
