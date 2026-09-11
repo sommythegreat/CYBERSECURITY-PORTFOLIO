@@ -31,7 +31,7 @@ Hands-on networking and cybersecurity labs documenting my learning journey after
 - Configured router subinterfaces with 802.1Q encapsulation for inter-VLAN routing
 - Combined static IP addressing (Admin) with DHCP (Staff) across separate VLANs
 - Troubleshot and resolved DHCP failures caused by incorrect VLAN port assignment
-- [View Full Lab](https://github.com/sommythegreat/CYBERSECURITY-PORTFOLIO/blob/main/labs/Cisco-Packet-Tracer/Lab-04-VLAN-Router-on-a-Stick.md)
+- [View Full Lab](https://github.com/sommythegreat/CYBERSECURITY-PORTFOLIO/blob/main/labs/Cisco-Packet-Tracer/Lab-04-Department-Network-With-Vlan-Router-On-A-Stick.md)
 
 ## Wireshark Labs
 
