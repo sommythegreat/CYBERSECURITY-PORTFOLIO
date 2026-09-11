@@ -8,7 +8,7 @@ Hands-on networking and cybersecurity labs documenting my learning journey after
 ### Lab 01: Basic LAN Connectivity with Cisco Packet Tracer
 - Built a simple local area network with 2 PCs, 1 Switch, and 1 Router
 - Configured static IP addressing and verified connectivity using ping
-- [View Full Lab](labs/Lab-01-Basic-LAN-Connectivity.md)
+- [View Full Lab](labs/Cisco-Packet-Tracer/Lab-01-Basic-LAN-Connectivity.md)
 
 ### Lab 02: Connecting Two Networks Using a Router
 - Created two separate networks and connected them using a Router
