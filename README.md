@@ -43,6 +43,15 @@ Hands-on networking and cybersecurity labs documenting my learning journey after
 - Understood packet anatomy: source/destination IPs, TTL, protocol types, hex dump representation
 - [View Full Lab](https://github.com/sommythegreat/CYBERSECURITY-PORTFOLIO/blob/main/labs/Wireshark/Lab-01-Packet-Capture-and-Traffic-Analysis.md)
 
+### Lab 02: Deep Packet Analysis and Protocol Filtering
+
+- Filtered captured traffic by DNS, HTTP, HTTPS protocols and port numbers
+- Analyzed DNS queries (port 53) showing hostname lookups and query types (A, AAAA, HTTPS records)
+- Followed TCP streams to examine encrypted HTTPS/TLSv1.3 conversations with Google
+- Demonstrated encryption security: payload unreadable while metadata (IPs, ports, data volume) visible
+- Identified port functions: 53 (DNS), 80 (HTTP), 443 (HTTPS/TLS)
+- [View Full Lab](https://github.com/sommythegreat/CYBERSECURITY-PORTFOLIO/blob/main/labs/Wireshark/Lab-02-Deep-Packet-Analysis-and-Protocol-Filtering.md)
+
 ## Skills Demonstrated
 
 - IP Addressing & Subnetting
@@ -54,10 +63,15 @@ Hands-on networking and cybersecurity labs documenting my learning journey after
 - Router-on-a-Stick (Inter-VLAN Routing)
 - Access Control Lists (ACLs)
 - Packet Capture & Analysis
-- Protocol Identification (TCP, UDP, DNS, HTTP/HTTPS, ICMP)
+- Protocol Filtering (DNS, TCP, TLS, HTTPS)
+- Port Analysis & Identification
+- TCP Stream Analysis
+- Encrypted vs. Plaintext Traffic Recognition
+- Protocol Identification (TCP, UDP, DNS, HTTP/HTTPS, ICMP, TLSv1.3)
 - OSI Layer Analysis
 - Network Troubleshooting
 - Technical Documentation
+
 
 ## Certifications
 
