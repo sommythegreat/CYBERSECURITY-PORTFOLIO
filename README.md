@@ -52,6 +52,16 @@ Hands-on networking and cybersecurity labs documenting my learning journey after
 - Identified port functions: 53 (DNS), 80 (HTTP), 443 (HTTPS/TLS)
 - [View Full Lab](https://github.com/sommythegreat/CYBERSECURITY-PORTFOLIO/blob/main/labs/Wireshark/Lab-02-Deep-Packet-Analysis-and-Protocol-Filtering.md)
 
+### Lab 03: Application-Layer Protocol Analysis
+
+- Analyzed HTTP GET requests and server responses in plaintext from neverssl.com
+- Examined DNS queries showing domain-to-IP resolution on port 53 (UDP)
+- Compared HTTP (port 80, plaintext) vs. HTTPS (port 443, encrypted)
+- Understood why encryption matters: plaintext exposes headers, data, user-agent
+- Identified protocol differences: DNS (UDP) vs. HTTP/HTTPS (TCP)
+- [View Full Lab](https://github.com/sommythegreat/CYBERSECURITY-PORTFOLIO/blob/main/labs/Wireshark/Lab-03-Application-Layer-Protocol-Analysis.md)
+
+
 ## Skills Demonstrated
 
 - IP Addressing & Subnetting
