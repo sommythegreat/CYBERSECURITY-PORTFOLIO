@@ -1,4 +1,3 @@
-
 # Cybersecurity Portfolio
 
 Hands-on networking and cybersecurity labs documenting my learning journey after completing the Google Cybersecurity Professional Certificate and Cisco Introduction to Cybersecurity.
@@ -71,8 +70,11 @@ Hands-on networking and cybersecurity labs documenting my learning journey after
 - Port Analysis & Identification
 - TCP Stream Analysis
 - Encrypted vs. Plaintext Traffic Recognition
-- Protocol Identification (TCP, UDP, DNS, HTTP/HTTPS, ICMP, TLSv1.3)
-- OSI Layer Analysis
+- Protocol Identification (TCP, UDP, DNS, HTTP/HTTPS, ICMP)
+- TCP 3-Way Handshake Analysis
+- Protocol Dissection
+- Display Filters in Wireshark
+- Application Layer Analysis (HTTP)
 - Network Troubleshooting
 - Technical Documentation
 
