@@ -35,13 +35,10 @@ Hands-on networking and cybersecurity labs documenting my learning journey after
 
 ## Wireshark Labs
 
-### Lab 01: Packet Capture and Traffic Analysis with Wireshark
-
-- Captured live network traffic (8545 packets) using Wireshark in Kali Linux
-- Analyzed packet structure across OSI layers (Frame, Linux cooked capture, IPv4, ICMP)
-- Identified multiple protocols in a single capture: ICMP (ping), TCP, DNS
-- Understood packet anatomy: source/destination IPs, TTL, protocol types, hex dump representation
-- [View Full Lab](https://github.com/sommythegreat/CYBERSECURITY-PORTFOLIO/blob/main/labs/Wireshark/Lab-01-Packet-Capture-and-Traffic-Analysis.md)
+### Lab 01: Packet Capture and Traffic Analysis
+- Captured live network traffic and analyzed packet structure across OSI layers
+- Identified multiple protocols (ICMP, TCP, DNS)
+- [View Full Lab](labs/Wireshark/Lab-01-Packet-Capture-and-Traffic-Analysis.md)
 
 ### Lab 02: TCP 3-Way Handshake and Protocol Dissection
 - Captured and analyzed a complete TCP 3-way handshake
