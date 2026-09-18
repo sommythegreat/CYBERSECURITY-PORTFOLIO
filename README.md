@@ -46,14 +46,15 @@ Hands-on networking and cybersecurity labs documenting my learning journey after
 - [View Full Lab](labs/Wireshark/Lab-02-TCP-3-Way-Handshake-and-Protocol-Dissection.md)
 
 ### Lab 03: Application-Layer Protocol Analysis
+- Analyzed HTTP and DNS traffic
+- Compared plaintext HTTP vs encrypted HTTPS
+- [View Full Lab](labs/Wireshark/Lab-03-Application-Layer-Protocol-Analysis.md)
 
-- Analyzed HTTP GET requests and server responses in plaintext from neverssl.com
-- Examined DNS queries showing domain-to-IP resolution on port 53 (UDP)
-- Compared HTTP (port 80, plaintext) vs. HTTPS (port 443, encrypted)
-- Understood why encryption matters: plaintext exposes headers, data, user-agent
-- Identified protocol differences: DNS (UDP) vs. HTTP/HTTPS (TCP)
-- [View Full Lab](https://github.com/sommythegreat/CYBERSECURITY-PORTFOLIO/blob/main/labs/Wireshark/Lab-03-Application-Layer-Protocol-Analysis.md)
-
+### Lab 04: Network Troubleshooting – DNS Failure Analysis
+- Simulated a real DNS failure scenario
+- Identified root cause using Wireshark (queries sent to 127.0.0.1)
+- Confirmed and documented the resolution
+- [View Full Lab](labs/Wireshark/Lab-04-Network-Troubleshooting-DNS-Failure.md)
 
 ## Skills Demonstrated
 
@@ -75,6 +76,11 @@ Hands-on networking and cybersecurity labs documenting my learning journey after
 - Protocol Dissection
 - Display Filters in Wireshark
 - Application Layer Analysis (HTTP)
+- Network Troubleshooting
+- DNS Analysis
+- Root Cause Analysis
+- ICMP Analysis
+- Practical Incident Investigation
 - Network Troubleshooting
 - Technical Documentation
 
