@@ -56,6 +56,13 @@ Hands-on networking and cybersecurity labs documenting my learning journey after
 - Confirmed and documented the resolution
 - [View Full Lab](labs/Wireshark/Lab-04-Network-Troubleshooting-DNS-Failure.md)
 
+### Lab 05: Detecting Port Scanning Activity
+- Simulated and detected a SYN port scan using Nmap and Wireshark
+- Identified key indicators of scanning behavior
+- Used display filters to isolate suspicious traffic
+- [View Full Lab](labs/Wireshark/Lab-05-Detecting-Port-Scanning-Activity.md)
+
+
 ## Skills Demonstrated
 
 - IP Addressing & Subnetting
